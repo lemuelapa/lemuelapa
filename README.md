@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemuelapa
 - 👀 I’m interested in Javascript, PHP and WordPress
-- 🌱 I’m currently learning GSAP
+- 🌱 I’m currently learning GSAP, ThreeJS + webgi framework
 
 <!---
 lemuelapa/lemuelapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
